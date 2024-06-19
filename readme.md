@@ -6,7 +6,7 @@ This project demonstrates how to use URL query parameters to set treatments for 
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/enable-disableFlags.git`
+1. Clone the repository: `git clone https://github.com/split-community/example-url-flagtoggle.git`
 2. Run with your favorite webserver (such as `python -m http.server`)
 
 ## Usage
